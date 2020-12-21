@@ -24,7 +24,7 @@ capabilities: [
       platformName: "Android",
       platformVersion: "11.0",
       deviceName: "Pixel_2_API_30",
-      app: join(process.cwd(), "./app/Android-NativeDemoApp-0.2.1.apk"),
+      app: "E:/Projects Prep/Guru99 Appium Mobile Auto/app/guru99.apk",
     }
 ]
 ```

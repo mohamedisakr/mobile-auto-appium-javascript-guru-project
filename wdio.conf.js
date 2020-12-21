@@ -53,8 +53,9 @@ exports.config = {
       platformName: "Android",
       platformVersion: "11.0",
       deviceName: "Pixel_2_API_30",
+      // app: "E:\\Projects Prep\\Guru99 Appium Mobile Auto\\app\\guru99.apk",
       app:
-        "E:/Projects Prep/Guru99 Appium Mobile App Automation/app/Guru99App.apk",
+        "E:\\Projects Prep\\Guru99 Appium Mobile Auto\\app\\com.vector.guru99.apk",
       //   // maxInstances can get overwritten per capability. So if you have an in-house Selenium
       //   // grid with only 5 firefox instances available you can make sure that not more than
       //   // 5 instances get started at a time.
