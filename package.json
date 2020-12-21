@@ -1,0 +1,12 @@
+{
+  "name": "mobile-auto-appium-javascript-guru-project",
+  "version": "1.0.0",
+  "description": "mobile-auto-appium-javascript-guru-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
