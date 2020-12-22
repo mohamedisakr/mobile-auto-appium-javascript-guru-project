@@ -24,7 +24,7 @@ capabilities: [
       platformName: "Android",
       platformVersion: "11.0",
       deviceName: "Pixel_2_API_30",
-      app: "E:/Projects Prep/Guru99 Appium Mobile Auto/app/guru99.apk",
+      app: "E:\\Projects Prep\\Guru99 Appium Mobile Auto\\app\\com.vector.guru99.apk",
     }
 ]
 ```
@@ -40,11 +40,10 @@ capabilities: [
 
 type: adb devices
 
-```
-{
-  "platformName": "Android",
-  "platformVersion": "11",
-  "deviceName": "Pixel_2_API_30",
-  "app": "E:\\Projects\\mobile-auto-appium-javascript-wdio-project\\app\\Android-NativeDemoApp-0.2.1.apk"
-}
-```
+### To install apk application file directly to mobile emulator
+
+type: adb install <<apk file path>>
+
+## Tasks
+
+### Task 1
